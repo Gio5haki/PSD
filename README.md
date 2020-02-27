@@ -1,2 +1,0 @@
-# PSD
-Created with CodeSandbox
